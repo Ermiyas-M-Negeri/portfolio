@@ -229,3 +229,18 @@ git rm -r --cached
         wsl_update_x64.msi
 git status
 git status
+ls
+git commit
+git add.
+git add .
+git "C:\Users\Ermiyas M. Negeri\portfolio"
+cd "C:\Users\Ermiyas M. Negeri\portfolio"
+git add .
+git status
+git commit
+git push https://github.com/Ermiyas-M-Negeri/portfolio.git
+git status
+git add .
+git commit
+cd desktop
+git clone https://github.com//Ermiyas-M-Negeri/portfolio
