@@ -244,3 +244,12 @@ git add .
 git commit
 cd desktop
 git clone https://github.com//Ermiyas-M-Negeri/portfolio
+git status
+git status
+cd portfolio
+git status
+git commit
+git add .
+git commit
+git status
+git commit -a
