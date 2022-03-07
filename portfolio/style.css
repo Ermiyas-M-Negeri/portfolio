@@ -20,6 +20,24 @@ body {
 }
 
 
+p{
+    font-size: 14px;
+}
+
+h2{
+    font-weight: bold;
+    font-size: 23px;
+    margin-bottom: 20px;
+}
+
+a.font-black{
+    color: #000 !important;
+    font-weight: bold;
+}
+
+#contacts{
+    margin: center;
+}
 
 /*************
 
@@ -80,7 +98,7 @@ PROJECT
 *********************/
 
 #project{
-    margin: 60px auto;
+    margin: 0px auto;
     width: 80%
 }
 
@@ -96,6 +114,7 @@ PROJECT
 
 #project .card-title{
     font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 
